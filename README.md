@@ -1,2 +1,2 @@
 # LGM-Todo_List
-Create a To Do List webapp
+LGM Virtual Internship Program
