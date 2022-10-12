@@ -1,2 +1,1 @@
-# LGM-Todo_List
-LGM Virtual Internship Program
+# LGM-Virtual Internship Program
